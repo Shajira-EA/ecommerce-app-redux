@@ -1,0 +1,29 @@
+.nav_link:hover{
+    color: orange;
+}
+.logo{
+    object-fit: contain;
+    height: 30px;
+}
+.dropdown{
+    cursor: pointer;
+}
+.dropdown:active{
+    background-color: orange;
+    color: black;
+}
+.search{
+    object-fit: cover;
+    height: 20px;
+}
+.cart{
+    object-fit: contain;
+    height: 35px;
+    background: transparent;
+}
+.buttoncart{
+    border: 1px solid transparent;
+}
+.buttoncart:hover{
+    border: 1px solid orange;
+}

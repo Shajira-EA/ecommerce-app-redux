@@ -1,0 +1,27 @@
+.forms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formwidth{
+    width: 50%;
+    
+}
+.address{
+    width: 100%;
+}
+.password{
+    color: red;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: orangered;
+}
+.button{
+    background-color: rgb(241, 146, 57);
+}
+.button:hover{
+    background-color: rgb(241, 141, 10);
+}

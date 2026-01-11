@@ -1,0 +1,15 @@
+ .cardimg{
+            height: 200px;
+            width: 100%;
+            object-fit: contain;
+            cursor: pointer;
+        }
+.cardstyle{
+            height: 100%;
+            font-size: 11px;
+            text-align: center;
+        }
+.paragraph{
+            height: 50px;
+            overflow: hidden;
+        }
